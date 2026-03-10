@@ -11,5 +11,7 @@ public class PlatformProfile : Profile
         // Source -> Target
         CreateMap<Platform, PlatformReadDto>();
         CreateMap<PlatformCreateDto, Platform>();
+        // For the event bus
+        CreateMap<PlatformReadDto, PlatformPublishedDto>();
     }
 }

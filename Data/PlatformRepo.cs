@@ -26,7 +26,7 @@ public class PlatformRepo : IPlatformRepo
         return [.. _context.Platforms];
     }
 
-    public Platform GetPlatformById(int id)
+    public Platform? GetPlatformById(int id)
     {
         return _context.Platforms.FirstOrDefault(p => p.Id == id);
     }
