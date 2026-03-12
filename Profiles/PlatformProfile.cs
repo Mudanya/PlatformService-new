@@ -13,5 +13,8 @@ public class PlatformProfile : Profile
         CreateMap<PlatformCreateDto, Platform>();
         // For the event bus
         CreateMap<PlatformReadDto, PlatformPublishedDto>();
+        CreateMap<Platform,GrpcPlatformModel>()
+            .ForMember(dest => dest.PlatformId, opt => opt.MapFrom(src => src.Id));
+            
     }
 }

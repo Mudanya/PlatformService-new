@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "y8G0YKAxC3I=",
+  "dgSpecHash": "hGeTq7C41b4=",
   "success": true,
   "projectFilePath": "/home/bentola/Prog/learn/dotnet/micsvc/PlatformService/PlatformService.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,15 @@
     "/home/bentola/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/home/bentola/.nuget/packages/azure.core/1.47.1/azure.core.1.47.1.nupkg.sha512",
     "/home/bentola/.nuget/packages/azure.identity/1.14.2/azure.identity.1.14.2.nupkg.sha512",
+    "/home/bentola/.nuget/packages/google.protobuf/3.31.1/google.protobuf.3.31.1.nupkg.sha512",
+    "/home/bentola/.nuget/packages/grpc.aspnetcore/2.76.0/grpc.aspnetcore.2.76.0.nupkg.sha512",
+    "/home/bentola/.nuget/packages/grpc.aspnetcore.server/2.76.0/grpc.aspnetcore.server.2.76.0.nupkg.sha512",
+    "/home/bentola/.nuget/packages/grpc.aspnetcore.server.clientfactory/2.76.0/grpc.aspnetcore.server.clientfactory.2.76.0.nupkg.sha512",
+    "/home/bentola/.nuget/packages/grpc.core.api/2.76.0/grpc.core.api.2.76.0.nupkg.sha512",
+    "/home/bentola/.nuget/packages/grpc.net.client/2.76.0/grpc.net.client.2.76.0.nupkg.sha512",
+    "/home/bentola/.nuget/packages/grpc.net.clientfactory/2.76.0/grpc.net.clientfactory.2.76.0.nupkg.sha512",
+    "/home/bentola/.nuget/packages/grpc.net.common/2.76.0/grpc.net.common.2.76.0.nupkg.sha512",
+    "/home/bentola/.nuget/packages/grpc.tools/2.76.0/grpc.tools.2.76.0.nupkg.sha512",
     "/home/bentola/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/bentola/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
     "/home/bentola/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
